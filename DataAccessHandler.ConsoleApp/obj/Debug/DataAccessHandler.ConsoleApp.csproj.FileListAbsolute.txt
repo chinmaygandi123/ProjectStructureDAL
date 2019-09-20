@@ -1,2 +1,3 @@
 E:\Blogs\Technical\2. Data Access Layer\DataAccessHandler\DataAccessHandler.ConsoleApp\bin\Debug\DataAccessHandler.ConsoleApp.exe.config
 C:\Users\AW204_PC1\Downloads\DataAccessHandler\DataAccessHandler\DataAccessHandler.ConsoleApp\bin\Debug\DataAccessHandler.ConsoleApp.exe.config
+C:\Users\AW204_PC5\Desktop\Project\GenericDataAccessLayerwithAdo.net\DataAccessHandler.ConsoleApp\bin\Debug\DataAccessHandler.ConsoleApp.exe.config
